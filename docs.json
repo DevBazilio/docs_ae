@@ -23,14 +23,15 @@
         }
       ]
     },
-    "groups": [
+    "pages": [
       {
-        "group": "Untitled Group",
+        "group": "Информация",
         "pages": [
           "gdhfdfgh",
           "343425452"
         ]
-      }
+      },
+      "343425452"
     ]
   },
   "logo": {
