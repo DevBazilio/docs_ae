@@ -34,8 +34,8 @@
     }
   },
   "logo": {
-    "light": "/images/Aetheris.png",
-    "dark": "/images/Frame1.png"
+    "light": "/images/Frame1.png",
+    "dark": "/images/Aetheris.png"
   },
   "navbar": {
     "primary": {
